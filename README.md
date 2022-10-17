@@ -57,7 +57,7 @@ void Clockwise(int speed)
 ~~~
 ### OUTPUT
 
-![output](robo6'1.png)
+![output](robo6''1.png)
 
 ### RESULTS AND DISCUSSION 
 
