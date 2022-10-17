@@ -56,6 +56,9 @@ void Clockwise(int speed)
 }
 ~~~
 ### OUTPUT
-![output](robo6'1)
+
+![output](robo6'1.png)
+
 ### RESULTS AND DISCUSSION 
 
+The speed and the direction of a DC motor has been controlled using L293D driver ic( H- bridge).
