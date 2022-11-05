@@ -63,6 +63,10 @@ void Clockwise(int speed)
 ![output](c1.png)
 ![output](c2.png)
 
+### counter clockwise:
+![output](c3.png)
+![output](c4.png)
+
 ### RESULTS AND DISCUSSION 
 
 The speed and the direction of a DC motor has been controlled using L293D driver ic( H- bridge).
